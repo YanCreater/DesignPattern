@@ -5,9 +5,9 @@ public class Client {
 
         try{
             TV tv;
-            TVFactory tvFactory;
-            tvFactory= (TVFactory) XMLUtilTV.getBean();
-            tv=tvFactory.produceTV();
+            //TVFactory tvFactory;
+            //tvFactory= (TVFactory) XMLUtilTV.getBean();
+            tv=(TV)XMLUtilTV.getBean();
             tv.play();
         }
         catch (Exception e)

@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710a73ba-e300-4456-9789-94156e9ae83b" name="Default Changelist" comment="" />
+    <list default="true" id="710a73ba-e300-4456-9789-94156e9ae83b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/Demo2_WeeklyLog_deepClone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/src/Attachment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo2_WeeklyLog_deepClone/src/WeeklyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo_WeeklyLog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo_WeeklyLog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo_WeeklyLog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo_WeeklyLog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo_WeeklyLog/Demo_WeeklyLog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo_WeeklyLog/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/Demo_WeeklyLog/src/WeeklyLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/MultCase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8_PrototypePattern/MultCase/src/MultCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_IDCard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_IDCard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_IDCard/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_IDCard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_IDCard/Demo_IDCard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_IDCard/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_IDCard/src/IdentityCardNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_LoadBalancer/Demo_LoadBalancer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_LoadBalancer/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_LoadBalancer/src/LoadBalancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_PrintSpooler/Demo_PrintSpooler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_PrintSpooler/src/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_PrintSpooler/src/PrintSpoolerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9_SingletonPattern/Demo_PrintSpooler/src/PrintSpoolerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/out/production/Demo2_TV/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/out/production/Demo2_TV/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../8_PrototypePattern/DeepClone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../8_PrototypePattern/DeepClone/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +61,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1TKXL72E3nLu3phk3yxE769PJCY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -57,5 +108,16 @@
       <updated>1573209701399</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

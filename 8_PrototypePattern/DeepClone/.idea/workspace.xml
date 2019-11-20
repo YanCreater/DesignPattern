@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a6d23d3-569e-41e5-9fda-685132bfbbfa" name="Default Changelist" comment="" />
+    <list default="true" id="7a6d23d3-569e-41e5-9fda-685132bfbbfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/out/production/Demo2_TV/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/out/production/Demo2_TV/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/src/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV/src/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +26,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1Tm8pMOzZB2ckzshd3Bsg8TodkD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../5_FactoryMethodPattern/Demo2_TV" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -57,5 +68,18 @@
       <updated>1574054091679</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
